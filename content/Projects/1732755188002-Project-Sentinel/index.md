@@ -6,6 +6,8 @@ description: "a description"
 tags: ["example", "tag"]
 ---
 
+![Alt text](/compressed/ezgif-2-0a674e7f44dc.png)
+
 #### Platform: PC
 #### Engine: Unity
 #### Genre: Various (adventure, platformer, management game)

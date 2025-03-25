@@ -6,6 +6,8 @@ description: "a description"
 tags: ["example", "tag"]
 ---
 
+![Alt text](/compressed/ezgif-2-cd702af56367.png)
+
 #### Platform: HTML5
 #### Engine: Unity
 #### Genre: Educational, dialogue based

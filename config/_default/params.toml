@@ -28,7 +28,7 @@ showMoreLinkDest = "/posts/"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = "Disable"
-homepageImage = "gtg-logo-png.webp"
+homepageImage = "gtg-logo-offset.webp"
 
 [article]
 showDate = false
