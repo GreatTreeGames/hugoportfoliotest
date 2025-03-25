@@ -8,7 +8,7 @@ tags: ["example", "tag"]
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls autoplay muted>
     <source src="/videos/mp4/Short-Squareforce-Teaser.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
@@ -43,7 +43,7 @@ I designed a 3d menu for the game that was a rough skeuomorphism of putting the 
 I designed all the playable stages in the game to wrap in both the X and Y so that it was impossible to camp opponents in a corner. I wanted the 'corner pressure' aspect of the fighting game to occur at the surfaces of the asteroids and other space objects floating in the stages. In the end this was a little confusing and a very big constraint on stage design, I'm not sure I would do it again if I made Squareforce today. As for the moves themselves, it was very fun to create a lot of moves and think critically about how they could be used both in different kits, and in unconventional fighting game situations like continuously attacking below or above you. This was in addition to creating moves that obeyed the standards of fighting game content, such as fast pokes, combo starters, finishers, defensive attacks, and other well known tropes of fighting game move design.
 
 
-## Focus Testing
+## Focus Testing and Live Promotion
 
 I brought Squareforce out to many different promotional events. I ran a booth at GDEX, an Ohio convention where gamedevs from Ohio and surrounding states could show their stuff. I also brought my game trailer out to GDC. I also got some professional smash players to try it at the Cleveland Esports Summit! Most of all, I brought it out to local developer and enthusiast events in Cleveland and Portland, Oregon many times (I was living in both places at the time). Each time I took notes on bugs players encountered, moments when they misunderstood what was happening in the game, common critiques, and negative possibility spaces/feature requests. 
 
@@ -51,13 +51,9 @@ I brought Squareforce out to many different promotional events. I ran a booth at
 # ENGINEERING TASKS:
 
 
-GAME SYSTEMS PROGRAMMING
+## Game Systems Programming
 
-UI/UX PROGRAMMING
-
-PROJECT ARCHITECTURE
-
-CUSTOM COLLISION SYSTEM
+I built the functionality in code for all the systems outlined above, myself!
 
 ## Dynamic Animation System
 
@@ -79,28 +75,18 @@ I created all of the 3d objects in the game myself! I chose a low poly style, an
 
 I also animated all of the attacks myself in addition to adding squash-and-stretch and 'facial animations' to the ships! If I had kept going, I was planning for the lore of the game to involve a toy story-like premise in which some bizarre space physics made the ships slightly alive, but only while not being observed (in a nod to quantum physics's wave-particle duality). I used blender shapekeys to animate all the facial expressions of the spaceships, and I used both blender and unity's built-in animation editor to edit all of the squareforce-based attacks. I carefully studied other fighting games frame-by-frame to better understand concepts like key poses, contrast against background elements, anticipation, and visual communication of the impact of the hits- in addition to referencing the frame times of common archetypes of attacks for balance purposes.
 
-## Environment Art
+## Environment Art and VFX Art
 
-Since my art was low-poly, I relied a lot on lighting and VFX to visually distinguish my stages from one another. I made use of unity's post-processing stack and experimented a lot with materials to visually define the objects in the stages. I wanted them to be atmospheric, but I also didn't want them to hurt the player's ability to see and understand what was going on. So I used very high contrast particle systems at the edges of certain objects to define them better, and I also would light the spaceships separately with non-scene lighting in some of the stages. I also really enjoyed making all of the dust, plasma and explosion effects with unity shuriken! 
-
-VFX ART
-
-3D UI ART
+Since my art was low-poly, I relied a lot on lighting and VFX to visually distinguish my stages from one another. I made use of unity's post-processing stack and experimented a lot with materials to visually define the objects in the stages. I wanted them to be atmospheric, but I also didn't want them to hurt the player's ability to see and understand what was going on. So I used very high contrast particle systems at the edges of certain objects to define them better, and I also would light the spaceships separately with non-scene lighting in some of the stages. I also really enjoyed making all of the dust, plasma and explosion effects with unity shuriken!
 
 
 # OTHER TASKS:
 
 
-SOUND DESIGN
-
 ## Production Scheduling, Publisher Relations and Market Research
 
 While I was running the live promotion circuit for my game, I also managed my own social media presence, production schedule, and market research efforts. I collected sales data and other metadata about various types of fighting games to try and analyze my niche and understand a budget and release strategy. I also was briefly in talks with 2 publishers who helped me refine my market research and brand identity.  
 
-LIVE PROMOTION
-
 ## External Content Commissioning (Musicians)
 
 The only piece of Squareforce that I did not directly create myself was the music- I reached out to several musicians including popular YouTube musician Argofox and an independent musician from the UK. Music from both of them appears in the game!
-
-SOCIAL MEDIA MARKETING

@@ -8,7 +8,7 @@ tags: ["example", "tag"]
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls autoplay muted>
     <source src="/videos/mp4/game-trailer.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
