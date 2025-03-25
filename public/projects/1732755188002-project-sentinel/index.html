@@ -104,7 +104,7 @@
     "keywords": ["example","tag"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "721"
+    "wordCount": "723"
   }]
   </script>
 
@@ -505,10 +505,21 @@
     
 </h4>
 <p>I met with a team of creatives at GDC one year who were interested in adapting the work of an author friend of theirs into a climate fiction game. With my ambitions at the time to break into paid work in the industry, and my former life as an environmental science professional, it was a natural fit. I worked contracts consistently for several months, then more sporadically over the following year with their team. Eventually, the team dissolved due to legal issues with the founder, but not before I was able to produce and give design input on a number of diverse prototypes and participate in the concepting process with the 2d artist and narrative designer. I also got the chance to meet and work with some design consultants from Playdead (developers of LIMBO and INSIDE) and keithBurgungames.</p>
-<p>Design Tasks:</p>
 
 
-<h2 class="relative group">DESIGN DOCUMENTATION 
+<h1 class="relative group">DESIGN TASKS: 
+    <div id="design-tasks" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#design-tasks" aria-label="Anchor">#</a>
+    </span>        
+    
+</h1>
+
+
+<h2 class="relative group">Design Documentation 
     <div id="design-documentation" class="anchor"></div>
     
     <span
@@ -521,7 +532,7 @@
 <p>I coordinated design meetings between the project&rsquo;s visionholder, artist and narrative designer, keeping track of and updating design documentation as the project evolved.</p>
 
 
-<h2 class="relative group">STAKEHOLDER INTERVIEWS 
+<h2 class="relative group">Stakeholder Interviews 
     <div id="stakeholder-interviews" class="anchor"></div>
     
     <span
@@ -534,7 +545,7 @@
 <p>I also did interviews of both the visionholder and narrative designer on design goals and technical needs for both tools and prototypes on the project. I helped to constrain overscoping and also to help put schema and structure to the narrative content so it would fit a future narrative pipeline for the game.</p>
 
 
-<h2 class="relative group">INTERNAL PITCHING 
+<h2 class="relative group">Internal Pitching 
     <div id="internal-pitching" class="anchor"></div>
     
     <span
@@ -547,7 +558,7 @@
 <p>In addition to listening and helping with design documentation, scope and tools requirements, I also was able to pitch some of my own gameplay ideas during certain phases of the project. I was also able to use my design knowledge to help the visionholder identify analogues to his gameplay ideas in published projects to help derive further insights for gameplay programming.</p>
 
 
-<h2 class="relative group">MOCKUPS 
+<h2 class="relative group">Mockups 
     <div id="mockups" class="anchor"></div>
     
     <span
@@ -560,21 +571,32 @@
 <p>I mocked some of my design ideas as well as some of the concepts on the design document using figma.</p>
 
 
-<h2 class="relative group">CONTENT DEVELOPMENT AND NARRATIVE CONTENT PIPELINE COORDINATION 
-    <div id="content-development-and-narrative-content-pipeline-coordination" class="anchor"></div>
+<h2 class="relative group">Content Development and Narritive Content Pipeline Coordination 
+    <div id="content-development-and-narritive-content-pipeline-coordination" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#content-development-and-narrative-content-pipeline-coordination" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#content-development-and-narritive-content-pipeline-coordination" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
 <p>Over the course of the project, I ended up working more and more closely with the narrative designer, both so that she could understand the new medium she was entering into, and so that I could understand her needs for content pipeline and how to structure and parametrize the content she was writing for the game.</p>
-<p>Engineering Tasks:</p>
 
 
-<h2 class="relative group">GAMEPLAY SYSTEMS PROGRAMMING AND SOFTWARE ARCHITECTURE 
+<h1 class="relative group">ENGINEERING TASKS: 
+    <div id="engineering-tasks" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#engineering-tasks" aria-label="Anchor">#</a>
+    </span>        
+    
+</h1>
+
+
+<h2 class="relative group">Gameplay Systems Programming and Software Architecture 
     <div id="gameplay-systems-programming-and-software-architecture" class="anchor"></div>
     
     <span
@@ -587,7 +609,7 @@
 <p>I programmed all the gameplay systems in all of the prototypes myself. Since the vision for the game was changing rapidly, I needed to make my code as modular and robust as possible to be able to reuse as much of it as I could. I was particularly proud of my internal architecture on the idle game -like prototype, I created a lot of highly generalizable systems to create very diverse content ingame in a no-code fashion.</p>
 
 
-<h2 class="relative group">3D UI/UX PROGRAMMING 
+<h2 class="relative group">3D UI/UX Programming 
     <div id="3d-uiux-programming" class="anchor"></div>
     
     <span
@@ -600,7 +622,7 @@
 <p>For the 3d globe / orrery prototype, I did a lot of complex math to ensure the dynamic camera and worldspace-based UI would line up properly regardless of edge cases. We also had accurate distances between planets in this scene, because it wasn&rsquo;t yet known if we would have a section where the player would directly control spacecraft. So I was able to do that while accounting for floating point precision limitations.</p>
 
 
-<h2 class="relative group">TOOLS DEVELOPMENT 
+<h2 class="relative group">Tools Development 
     <div id="tools-development" class="anchor"></div>
     
     <span
@@ -613,7 +635,7 @@
 <p>I did extensive tools development on this project. We kept changing the narrative tools we were using to create the content- we went from articy:draft, to inkle writer, to twine, to dialoguesystem for unity, to a custom system. I had to be pretty fast to adapt to changing requirements on the tool integration side, with my own custom adapters and similar features. I created a system to dynamically parse and restructure inkle script using regex and winforms while ingesting it into the unity project assets. I also made various editor utilities, and csv ingestion functionality.</p>
 
 
-<h2 class="relative group">PLUGIN INTEGRATION 
+<h2 class="relative group">Plugin Integration 
     <div id="plugin-integration" class="anchor"></div>
     
     <span
