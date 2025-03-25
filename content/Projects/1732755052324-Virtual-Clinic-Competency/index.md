@@ -1,4 +1,4 @@
----
+﻿---
 title: "Virtual Clinic Competency"
 date: 2024-11-28
 draft: false
@@ -19,7 +19,7 @@ This is an educational game done in under contract with Case Western Reserve at 
 
 ## Figma Mockups, Leading Design Session with Stakeholders
 
-I was much more prepared this time to deliver design insights to the visionholders and project lead. I took the lead in designing this version of the experience, and I presented all of my designs as mockups in figma or blender along with small prototypes of the gameplay systems that attracted the most stakeholder interest. I also led a design retreat where I guided all of the instructional design staff, SMEs, and project managers through brainstorming sessions about how things went with the first version of the virtual clinic and what we would want out of another such game, surfacing their most key concerns and insights and offering my best design responses backed up by evidence and rationale. 
+I was much more prepared this time to deliver design insights to the visionholders and project lead. I took the lead in designing this version of the experience, and I presented all of my designs as mockups in Figma or blender along with small prototypes of the gameplay systems that attracted the most stakeholder interest. I also led a design retreat where I guided all of the instructional design staff, SMEs, and project managers through brainstorming sessions about how things went with the first version of the virtual clinic and what we would want out of another such game, surfacing their most key concerns and insights and offering my best design responses backed up by evidence and rationale. 
 
 ## Internal Pitching and Revision Cycles
 
@@ -43,7 +43,7 @@ As before, we checked in whenever we could with the SMEs to ensure we were still
 
 ## UI Programming
 
-we designed the GUI systems in this version of the virtual clinic to be much more modular and easy to understand at a glance. We took extra care to ensure that a managable amount of relevant information was onscreen at any one time. I worked with my fellow game developer colleague to define the internal structure of the encounter in a more robust way that was ultimately more extensible than what we did in virtual clinic scenarios. 
+we designed the GUI systems in this version of the virtual clinic to be much more modular and easy to understand at a glance. We took extra care to ensure that a manageable amount of relevant information was onscreen at any one time. I worked with my fellow game developer colleague to define the internal structure of the encounter in a more robust way that was ultimately more extensible than what we did in virtual clinic scenarios. 
 
 ## Core Gameplay Systems
 
@@ -55,15 +55,15 @@ Having a better understanding of what platforms we intended to ship to this time
 
 ## Mobile Platform Deployment and Optimization
 
-we also deployed cross-platform to ios and android. Many of our interactions were clear and simple enough to translate easily with minor tweaking- however, we were not so lucky with accessibility. We were required by internal rules at case to equip any software we released with appropriate screenreader accessibility features for the visually impaired. While the specifics of these requirements did not seem designed for games, we followed them as best as we could. My fellow gamedev heroically did a lot of the work in moving both apple's core screen reader nodes as well as android's, but I helped. Unity's more advanced screenreader support did not roll out until unity 2023, so we had to retrofit and roll all of this functionality ourselves- it was a big lift!
+we also deployed cross-platform to iOS and android. Many of our interactions were clear and simple enough to translate easily with minor tweaking- however, we were not so lucky with accessibility. We were required by internal rules at case to equip any software we released with appropriate screenreader accessibility features for the visually impaired. While the specifics of these requirements did not seem designed for games, we followed them as best as we could. My fellow gamedev heroically did a lot of the work in moving both apple's core screen reader nodes as well as android's, but I helped. Unity's more advanced screenreader support did not roll out until unity 2023, so we had to retrofit and roll all of this functionality ourselves- it was a big lift!
 
 ## Custom Spline-Based Character Movement System
 
-We created a simplified character movement system for the small characters in the 3d scene section of the game. I learned a lot about spline math from my developer friend, who helped me port a generalized spline system into unity from a separate software project and adapt it to work with our custom animation framework (whose state was driven by the dialogues we created the archtecture for as well).
+We created a simplified character movement system for the small characters in the 3d scene section of the game. I learned a lot about spline math from my developer friend, who helped me port a generalized spline system into unity from a separate software project and adapt it to work with our custom animation framework (whose state was driven by the dialogues we created the architecture for as well).
 
 ## Cinemachine False Perspective System
 
-I incorporated unity's cinemachine into my screen element docking system, and utilized false perspective to make it so that certain 3d scene elements would appear in a similar manner to gui objects.
+I incorporated unity's cinemachine into my screen element docking system, and utilized false perspective to make it so that certain 3d scene elements would appear in a similar manner to GUI objects.
 
 ## Loading Content Dynamically from Server
 
@@ -79,7 +79,7 @@ Tragically, the artist on our team from the previous game passed away between de
 
 ## Art Cleanup
 
-In the interim time, I was able to do a bit better than the standard 'programmer artwork.' Using Blender, I was able to create the 3d environment that was ultimately used in the final game. I used what I learned from the previous version of the game to do texture atlassing to save memory.
+In the interim time, I was able to do a bit better than the standard 'programmer artwork.' Using Blender, I was able to create the 3d environment that was ultimately used in the final game. I used what I learned from the previous version of the game to do texture atlasing to save memory.
 
 ## Scientific Writing Assistance
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Seeds of Change"
 date: 2024-11-28
 draft: false
@@ -20,7 +20,7 @@ tags: ["example", "tag"]
 #### Genre: Farming Sim, Geolocation AR game, Serious Game
 #### Team: 1 Engineer and Designer (me), 1 Data Scientist and UI artist, 1 team lead and design lead, 1 3d artist
 
-I volunteered with a group of concerned activists I met online to create a prototype for this environmental activism game. We later found a group within the IGDA and pitched to them unsuccessfully for funding, but not before creating the prototype seen here. The idea of the game was that environmental activist organizers could sign up on an external website and register their event location in the game. Then, activists who showed up in person to help with the environmental volunteering event, would receieve ingame rewards for attending. The game itself was a solarpunk-themed farming sim, and since the main limitation on the player would be the rare species of seeds they would earn from doing one-time environmental volunteer actions in real life, we also created a way to share your garden for other players to view.
+I volunteered with a group of concerned activists I met online to create a prototype for this environmental activism game. We later found a group within the IGDA and pitched to them unsuccessfully for funding, but not before creating the prototype seen here. The idea of the game was that environmental activist organizers could sign up on an external website and register their event location in the game. Then, activists who showed up in person to help with the environmental volunteering event, would receive ingame rewards for attending. The game itself was a solarpunk-themed farming sim, and since the main limitation on the player would be the rare species of seeds they would earn from doing one-time environmental volunteer actions in real life, we also created a way to share your garden for other players to view.
 
 
 # DESIGN TASKS:
@@ -48,4 +48,4 @@ We worked down to the wire to make sure that our gameplay experience was as read
 
 ## Pitch Deck and Pitch Session
 
-I presented the pitch material along with our visionholder and team leader to a closed meeting with publishers who went on to play our prototype. She, the data scientist, and I also created the pitch deck together.
+I presented the pitch material along with our vision holder and team leader to a closed meeting with publishers who went on to play our prototype. She, the data scientist, and I also created the pitch deck together.

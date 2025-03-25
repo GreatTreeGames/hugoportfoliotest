@@ -1,4 +1,4 @@
----
+﻿---
 title: "Therasphere VR"
 date: 2024-11-28
 draft: false
@@ -20,7 +20,7 @@ tags: ["example", "tag"]
 #### Genre: Educational, Simulation
 #### Team: 1 Developer (me) 1 3d artist, 1 project manager
 
-I worked on this game with Razoredge LLC, who in turn was contracting with a local university. The game was created to improve the process of training nursing staff on how to correctly handle radioactive cancer treatment drugs. the existing training method was costly and slow, as it involved calling a van out to the worksite and taking an entire day to train nursing staff with the real equipment. Furthermore, they would only get one chance to go through the experience. I'm confident that due to our creation of this serious game, they were able to recieve better, more accessible and more personalized training. 
+I worked on this game with Razoredge LLC, who in turn was contracting with a local university. The game was created to improve the process of training nursing staff on how to correctly handle radioactive cancer treatment drugs. the existing training method was costly and slow, as it involved calling a van out to the worksite and taking an entire day to train nursing staff with the real equipment. Furthermore, they would only get one chance to go through the experience. I'm confident that due to our creation of this serious game, they were able to receive better, more accessible and more personalized training. 
 
 
 # ENGINEERING TASKS:

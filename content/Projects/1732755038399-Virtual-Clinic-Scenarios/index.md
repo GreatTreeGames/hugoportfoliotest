@@ -1,4 +1,4 @@
----
+﻿---
 title: "Virtual Clinic Scenarios"
 date: 2024-11-28
 draft: false
@@ -12,7 +12,7 @@ tags: ["example", "tag"]
 #### Team: 2 game developers(me), 1 web developer, 1 project manager, 3 3d artists, 1 project lead, many subject matter experts and testers
 
 
-This is an educational game done in under contract with Case Western Reserve at the Francis Payne Bolton School of Nursing. It was also in partnership with CVS and the Institute for Healthcare Improvement (IHI). I was a designer and developer on this project. I currently also do maintenance on the game. Our goal in creating the game was to produce an intuitive learning environment where nurses learn to deliver better geriatric care in Minuteclinics around the US, by using an approach to elder care called the 4 M's system.
+This is an educational game done in under contract with Case Western Reserve at the Francis Payne Bolton School of Nursing. It was also in partnership with CVS and the Institute for Healthcare Improvement (IHI). I was a designer and developer on this project. I currently also do maintenance on the game. Our goal in creating the game was to produce an intuitive learning environment where nurses learn to deliver better geriatric care in Minute Clinics around the US, by using an approach to elder care called the 4 M's system.
 
 
 # DESIGN TASKS:
@@ -20,11 +20,11 @@ This is an educational game done in under contract with Case Western Reserve at 
 
 ## Whiteboarding Sessions
 
-I shared design responsibilities with the other game developer and web developer, and we all participated in whiteboarding sessions to define a design for the game that would meet the learning goals defined by the SMEs and project oversight.I led a series of whiteboarding sessions with the development team, core stakeholders, and 2 SMEs. we whiteboarded possible screen layouts for each prototype as well as mind maps of the most important learning material and how it was structured according to the SMEs. this was early in my career, if i were to lead such a meeting again today, I would probably use Miro to outline the learning goals and figma to mock screenshots.
+I shared design responsibilities with the other game developer and web developer, and we all participated in whiteboarding sessions to define a design for the game that would meet the learning goals defined by the SMEs and project oversight. I led a series of whiteboarding sessions with the development team, core stakeholders, and 2 SMEs. we whiteboarded possible screen layouts for each prototype as well as mind maps of the most important learning material and how it was structured according to the SMEs. this was early in my career, if I were to lead such a meeting again today, I would probably use Miro to outline the learning goals and Figma to mock screenshots.
 
 ## SME Consultation
 
-I was working on the team with someone else from the Cleveland game developer scene and we pitched the idea that the learning platform could be a game. After stakeholder buy-in, we began meeting with Subject matter experts (SME's) to hash out the design of the game. I initially believed we were replacing existing didactic learning material with a game, but actually a lot of the learning goals had not been defined yet for the learning intervention itself. We talked about what the difference in competencies would be between a hypothetical player who comes into the program, and one who has played the game and knows the skills. As stated, this was accomplished both in whiteboard meetings at the beginning of the project, but also through checking in with the SMEs when they were available. sometimes they disagreed on the material, and in this case it was left to the project stakeholder to give the final say.
+I was working on the team with someone else from the Cleveland game developer scene and we pitched the idea that the learning platform could be a game. After stakeholder buy-in, we began meeting with Subject matter experts (SMEs) to hash out the design of the game. I initially believed we were replacing existing didactic learning material with a game, but actually a lot of the learning goals had not been defined yet for the learning intervention itself. We talked about what the difference in competencies would be between a hypothetical player who comes into the program, and one who has played the game and knows the skills. As stated, this was accomplished both in whiteboard meetings at the beginning of the project, but also through checking in with the SMEs when they were available. sometimes they disagreed on the material, and in this case it was left to the project stakeholder to give the final say.
 
 ## Paper Prototyping
 
@@ -60,11 +60,11 @@ The other gamedev, artist, and myself carefully chose a visual style for our gam
 
 ## UI Programming
 
-The other gamedev and I did all the programming of the UI elements we designed. It was important to strike a balance between responsive animated ui and ui that would stay in the same place while being interacted with. also we custom-created a lot of radial layout functionality and nonstandard button colliders to match our initial ui design.
+The other gamedev and I did all the programming of the UI elements we designed. It was important to strike a balance between responsive animated UI and UI that would stay in the same place while being interacted with. also we custom-created a lot of radial layout functionality and nonstandard button colliders to match our initial UI design.
 
 ## Core Gameplay Systems
 
-In addition to the ui programming, we also programmed all of the camera, character agent, scenario state management, and remote server infrastructure for the game. We initially thought that SMEs would be continuously wanting to add new content, so we created a CRUD system to help non-programmers edit ingame patient scenarios and load them ingame. ultimately this went unused, but i still learned a lot about server-based content loading in unity. 
+In addition to the UI programming, we also programmed all of the camera, character agent, scenario state management, and remote server infrastructure for the game. We initially thought that SMEs would be continuously wanting to add new content, so we created a CRUD system to help non-programmers edit ingame patient scenarios and load them ingame. ultimately this went unused, but I still learned a lot about server-based content loading in unity. 
 
 ## Mocap Custom Hardware Configuration
 
@@ -80,7 +80,7 @@ I scripted all of the blending of the 3d animations in the game using unity's me
 
 ## FSM Management
 
-there were a few other state machine driven systems in the game. due to having just worked on squareforce before this game, I was used to unity's FSM/mecanim system and did every state machine in the project myself.
+there were a few other state machine driven systems in the game. due to having just worked on Squareforce before this game, I was used to unity's FSM/mecanim system and did every state machine in the project myself.
 
 ## Loading Dynamic Content From the Server at Runtime
 

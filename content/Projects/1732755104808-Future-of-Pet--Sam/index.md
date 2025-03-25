@@ -1,4 +1,4 @@
----
+﻿---
 title: "Future of Pet- Sam"
 date: 2024-11-28
 draft: false
@@ -20,7 +20,7 @@ tags: ["example", "tag"]
 #### enre: Sales Training
 #### Team: 2 Engineers (me), 1 artist/designer, 1 animator, 1 project manager
 
-This was a VR game made to familiarize employees at a pet care company about the roles and future vision of product lines in their company. The idea is to show a few interactive scenes of the future of pet care, prominently featuring products only just starting to be developed today, and to get marketing and sales specialists aquainted with the vision of the company. This pet care company was a client of RazorEdge LLC, a VR-focused serious games company that I did intermittent contract work with from 2021-2023.
+This was a VR game made to familiarize employees at a pet care company about the roles and future vision of product lines in their company. The idea is to show a few interactive scenes of the future of pet care, prominently featuring products only just starting to be developed today, and to get marketing and sales specialists acquainted with the vision of the company. This pet care company was a client of RazorEdge LLC, a VR-focused serious games company that I did intermittent contract work with from 2021-2023.
 
 
 # ENGINEERING TASKS:
@@ -44,4 +44,4 @@ I extended some of the tools to make my own timeline tasks a bit easier to manag
 
 ## Art Pipeline Coordination
 
-I struggled again on this project to get all the animation I needed in the right format. I made sure to communciate more effectively this time though, and leveraged what I had learned last time about animation rigging and the 3d humanoid workflow in blender to better understand the problem from the artist side. In the end, the artist and I were able to work together much better and get better looking animations into the project in less time. 
+I struggled again on this project to get all the animation I needed in the right format. I made sure to communicate more effectively this time though, and leveraged what I had learned last time about animation rigging and the 3d humanoid workflow in blender to better understand the problem from the artist side. In the end, the artist and I were able to work together much better and get better looking animations into the project in less time. 
