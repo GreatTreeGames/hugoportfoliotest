@@ -8,7 +8,7 @@ tags: ["example", "tag"]
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay muted>
+<video width=100% controls autoplay muted loop>
     <source src="/videos/mp4/Short-Squareforce-Teaser.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
@@ -24,6 +24,9 @@ This was my first major effort in creating an indie game of my own. I was inspir
 
 
 # DESIGN TASKS:
+
+
+![Alt text](/ringsEdge.png)
 
 
 ## Design Documentation
@@ -51,6 +54,8 @@ I brought Squareforce out to many different promotional events. I ran a booth at
 # ENGINEERING TASKS:
 
 
+![Alt text](/screenshot4.png)
+
 ## Game Systems Programming
 
 I built the functionality in code for all the systems outlined above, myself!
@@ -67,6 +72,8 @@ I also used mecanim to drive enemy AI behavior in the game. Rather than use it f
 # ART TASKS:
 
 
+![Alt text](/screenshot3.png)
+
 ## 3D Object Art
 
 I created all of the 3d objects in the game myself! I chose a low poly style, and tried to adapt the aesthetic to my capabilities and what I knew I would be able to make. I was a novice in blender at the time, but I was able to create a variety of player ships and objects for the stages and 3d GUI screens. I consulted with my artist friends on how to apply character design principles to the ships, such as by adding contrast to important parts of the model and suggesting movement and action through the silhouette and shape of the ships.
@@ -81,6 +88,8 @@ Since my art was low-poly, I relied a lot on lighting and VFX to visually distin
 
 
 # OTHER TASKS:
+
+![Alt text](/splash.png)
 
 
 ## Production Scheduling, Publisher Relations and Market Research

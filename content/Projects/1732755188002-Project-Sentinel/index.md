@@ -18,6 +18,7 @@ I met with a team of creatives at GDC one year who were interested in adapting t
 
 # DESIGN TASKS:
 
+![Alt text](/ezgif-2-2412e913e268.gif)
 
 ## Design Documentation
 
@@ -31,6 +32,8 @@ I also did interviews of both the visionholder and narrative designer on design 
 
 In addition to listening and helping with design documentation, scope and tools requirements, I also was able to pitch some of my own gameplay ideas during certain phases of the project. I was also able to use my design knowledge to help the visionholder identify analogues to his gameplay ideas in published projects to help derive further insights for gameplay programming. 
 
+![Alt text](/ezgif-3-c866e1c04980.gif)
+
 ## Mockups
 
 I mocked some of my design ideas as well as some of the concepts on the design document using Figma. 
@@ -41,6 +44,8 @@ Over the course of the project, I ended up working more and more closely with th
 
 
 # ENGINEERING TASKS:
+
+![Alt text](/ezgif-3-dff445d78cff.gif)
 
 
 ## Gameplay Systems Programming and Software Architecture
