@@ -25,7 +25,7 @@ This was a VR game made to familiarize employees at a pet care company about the
 
 # ENGINEERING TASKS:
 
-
+![Alt text](/samstore.PNG)
 ## Gameplay Systems Programming
 
 I programmed all of the gameplay in FOP Maria, but it was through the excellent tools development of my engineer colleague that I was able to do so. He had already made a tool pipeline for the team long before I joined, and there were many unity timeline - based utilities that he made that made my life a lot easier! Any non- timeline based gameplay in the game, such as the virtual phone screen, I programmed myself as normal.

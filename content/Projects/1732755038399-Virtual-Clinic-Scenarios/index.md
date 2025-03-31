@@ -19,10 +19,13 @@ This is an educational game done in under contract with Case Western Reserve at 
 
 # DESIGN TASKS:
 
+![Alt text](/IMG_2963.JPG)
 
 ## Whiteboarding Sessions
 
 I shared design responsibilities with the other game developer and web developer, and we all participated in whiteboarding sessions to define a design for the game that would meet the learning goals defined by the SMEs and project oversight. I led a series of whiteboarding sessions with the development team, core stakeholders, and 2 SMEs. we whiteboarded possible screen layouts for each prototype as well as mind maps of the most important learning material and how it was structured according to the SMEs. this was early in my career, if I were to lead such a meeting again today, I would probably use Miro to outline the learning goals and Figma to mock screenshots.
+
+![Alt text](/IMG_2964.JPG)
 
 ## SME Consultation
 
@@ -34,6 +37,8 @@ For later prototypes we also advanced to paper prototyping to give stakeholders 
 
 ## Whiteboxing
 
+![Alt text](/customizer.png)
+
 I created all the level geometry in the early levels before it was time to do a more detailed pass with an artist. I also whiteboxed all the prototypes that preceded the final version of Scenarios, which included some very different types of gameplay including a character creator and isometric office view
 
 ## User Testing
@@ -41,6 +46,8 @@ I created all the level geometry in the early levels before it was time to do a 
 I coordinated playtest sessions with nurse practitioners at the college to collect their thoughts on the gameplay and what should be improved. I told other observers what to watch for and take notes on while we physically observed people play the game. 
 
 ## UI Design
+
+![Alt text](/shirleyscreenshot.png)
 
 Once we got the go-ahead to adapt our third prototype into the full game, the other game dev on the staff and I both worked on many different versions of the GUI for the game. We created several versions of the radial menu seen here, and iterated on which ones would best show relationships between the content without explicitly telling the player. We used rules of graphic design and composition to best select what shapes and colors to use to help players form associations implicitly. we also created a 'mini map' on the scrollbar of the encounter text so the player has a visual sense of where and how much of the encounter has been modified by their actions.
 
@@ -59,6 +66,7 @@ The other gamedev, artist, and myself carefully chose a visual style for our gam
 
 # ENGINEERING TASKS:
 
+![Alt text](/2021vc.gif)
 
 ## UI Programming
 
@@ -73,6 +81,8 @@ In addition to the UI programming, we also programmed all of the camera, charact
 We set up a custom impromptu mocap studio at the college using a series of off-the-shelf parts such as XB1 kinect cameras. Using open source tools, we captured 3d motion data from several actors and medical experts who knew how to do the irregular walking gait that would be featured in the game. We used some of this animation, but it was also very messy and low-fidelity, so the artist manually created some other humanoid animations.
 
 ## Mocap Data Cleanup
+
+![Alt text](/ShirleySmithScreenshot4.webp)
 
 I helped the artist do a bit of the cleanup of the captured animation. IK of the feet was a bit messy and there were a lot of excess keyframes. in the end it was mostly useful as a block-out for the handcrafted animations the artist made.
 
