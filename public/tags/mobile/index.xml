@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile on Great Tree Games</title>
-    <link>http://localhost:1313/tags/mobile/</link>
+    <link>http://localhost:1313/hugoportfoliotest/tags/mobile/</link>
     <description>Recent content in Mobile on Great Tree Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugoportfoliotest/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Virtual Clinic Competency</title>
-      <link>http://localhost:1313/projects/1732755052324-virtual-clinic-competency/</link>
+      <link>http://localhost:1313/hugoportfoliotest/projects/1732755052324-virtual-clinic-competency/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/1732755052324-virtual-clinic-competency/</guid>
+      <guid>http://localhost:1313/hugoportfoliotest/projects/1732755052324-virtual-clinic-competency/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/1732755052324-virtual-clinic-competency/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugoportfoliotest/projects/1732755052324-virtual-clinic-competency/featured.webp" />
     </item>
     
   </channel>
