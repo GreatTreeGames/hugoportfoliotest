@@ -44,6 +44,6 @@ I made minor edits to the toolchain to support animation related edge cases in t
 
 ## Art Pipeline Coordination
 
-![Alt text](/tubingbone.PNG)
+![Alt text](/hugoportfoliotest/tubingbone.PNG)
 
 The most involved part of this project was the animation of the small plastic tubing. While primarily a challenge for the artist to animate correctly, it was also troublesome to get it to align properly with the geometry over several stages of animation, and to apply bone weights to an obviously rope-like structure. We initially considered making a fully articulated physics rope system for this asset, but saw quickly that it would be more accurate to real life to portray the tubing assembly as unfurling in a pre-animated way over the course of several steps. I defined these steps with the artist and we worked together to make sure that it would look correct and convey learning information at each step of the animation. 
