@@ -36,7 +36,7 @@ I worked to coordinate design efforts from the entire team, and leverage their i
 
 ## Gameplay Systems Programming and Loading Dynamic Server Content
 
-![Alt text](/plantpaint.gif)
+![Alt text](/hugoportfoliotest/plantpaint.gif)
 
 I used my existing experience pulling live server data into unity to create a prototype that would load geolocations and ingame event metadata into the game. We also scraped websites like the environmental voter scorecard and dynamically pulled information into the game from live-updated data for easy visualization and use in gameplay. 
 
@@ -47,7 +47,7 @@ We worked down to the wire to make sure that our gameplay experience was as read
 
 # OTHER TASKS:
 
-![Alt text](/deckcover.png)
+![Alt text](/hugoportfoliotest/deckcover.png)
 
 ## Pitch Deck and Pitch Session
 
