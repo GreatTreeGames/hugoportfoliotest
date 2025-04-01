@@ -6,14 +6,7 @@ description: "a description"
 tags: ["example", "tag"]
 ---
 
-{{< rawhtml >}} 
-
-<video width=100% controls autoplay loop>
-    <source src="/videos/mp4/Future-of-Pet-Maria-small.mp4" type="video/mp4">
-    Your browser does not support the video tag.  
-</video>
-
-{{< /rawhtml >}}
+ {{< vimeo 1071247630>}}
 
 #### Platform: Oculus Quest
 #### Engine: Unity

@@ -6,14 +6,7 @@ description: "a description"
 tags: ["example", "tag"]
 ---
 
-{{< rawhtml >}} 
-
-<video width=100% controls autoplay muted loop>
-    <source src="/videos/mp4/Short-Squareforce-Teaser.mp4" type="video/mp4">
-    Your browser does not support the video tag.  
-</video>
-
-{{< /rawhtml >}}
+{{< vimeo 1071247960>}}
 
 #### Platform: PC
 #### Engine: Unity

@@ -6,14 +6,7 @@ description: "a description"
 tags: ["Web", "Mobile"]
 ---
 
-{{< rawhtml >}} 
-
-<video width=100% controls autoplay muted loop>
-    <source src="/videos/mp4/mainv4footage.mp4" type="video/mp4">
-    Your browser does not support the video tag.  
-</video>
-
-{{< /rawhtml >}}
+{{< vimeo 1071247942 >}}
 
 #### Platform: Android, IOS, HTML5
 #### Engine: Unity
