@@ -25,7 +25,7 @@ I was much more prepared this time to deliver design insights to the visionholde
 
 ## Internal Pitching and Revision Cycles
 
-![Alt text](/hugoportfoliotest/wire1-3.png)
+![Alt text](/wire1-3.png)
 
 I pitched 3 different prototypes after the design retreat. Once decided on a direction, I checked in repeatedly with the core team to ensure we were still aligned with their vision and what they wanted to do. 
 
@@ -34,7 +34,7 @@ I pitched 3 different prototypes after the design retreat. Once decided on a dir
 I quickly began to align with and request additional time with the instructional design staff: I began to realize that these professionals are very similar to game designers in terms of what they are trained to do. I was also able to learn some instructional design words for contemporaneous concepts in game design, and it helped me communicate with the rest of the team better.
 
 ## UI Design (Symbols)
-![Alt text](/hugoportfoliotest/Icons.png)
+![Alt text](/Icons.png)
 
 One key idea I wanted to emphasize was to create a strong visual shorthand for the types of age-related abnormalities that the nurses playing the game would be learning. Just like in other games, developing a consistent visual shape-language is great for player knowledge retention.
 
@@ -45,7 +45,7 @@ As before, we checked in whenever we could with the SMEs to ensure we were still
 
 # ENGINEERING TASKS:
 
-![Alt text](/hugoportfoliotest/connections.png)
+![Alt text](/connections.png)
 
 ## UI Programming
 
@@ -78,7 +78,7 @@ as was the case last time, we were loading dynamic content at runtime from our g
 
 # OTHER TASKS:
 
-![Alt text](/hugoportfoliotest/assessmentsv4.png)
+![Alt text](/assessmentsv4.png)
 
 
 ## Hiring and Managing Art Staff
@@ -98,4 +98,4 @@ As with the previous version of the virtual clinic, I once again helped the data
 We showed this version of the virtual clinic at the 2022 serious play conference in Florida. Myself, the other game developer, and the web developer all went on the trip together and delivered our results along with gameplay and design rationale in a conference talk to the audience. It was great to meet other devs of serious games, and we were honored to have our game featured in the conference speaker lineup!
 
 
-![Alt text](/hugoportfoliotest/gaits.gif)
+![Alt text](/gaits.gif)

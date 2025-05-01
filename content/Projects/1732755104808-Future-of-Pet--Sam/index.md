@@ -18,7 +18,7 @@ This was a VR game made to familiarize employees at a pet care company about the
 
 # ENGINEERING TASKS:
 
-![Alt text](/hugoportfoliotest/samstore.PNG)
+![Alt text](/samstore.PNG)
 
 ## Gameplay Systems Programming
 

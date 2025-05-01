@@ -19,7 +19,7 @@ This was my first major effort in creating an indie game of my own. I was inspir
 # DESIGN TASKS:
 
 
-![Alt text](/hugoportfoliotest/ringsEdge.png)
+![Alt text](/ringsEdge.png)
 
 
 ## Design Documentation
@@ -31,7 +31,7 @@ I created all the documentation by hand on physical paper- this was my first gam
 I designed a number of game mechanics to compliment this vision. I really wanted to focus on accessibility because it was my view at the time that 2d fighting games were dwindling in popularity due to their steep learning curve and poor player communication. I made the movepool for each character very small (6) and made it so that you only needed to use 2 attack buttons and 4 face buttons total to play the game. I also was trying to design each type of input to also work with touch devices, but this was later scrapped. Many moves were only available through chording, which I thought would simplify the controls but actually it confused players. I also ran into some classic game engineering problems since it was my first project- one of which was the fact that my fast-moving attacks and ships would frequently clip through each other and terrain. I wrote a custom collision interpolation system to dynamically create meshes at runtime to interpolate between a hurtbox's last frame and current frame. In keeping with my commitment to show the hurtboxes AS the artwork, I even considered coloring the runtime-created meshes so they would look like 3d motion smears (this concept was also being used by another independent smashlike project, earth romancer). In the end I did not use the smears for artistic purposes, but I used them to manage collision for most of the project's lifetime until I eventually discovered established, simpler methods for continuous collision detection (i didn't even know there was a word for it at the time)
 
 ## UX Design
-![Alt text](/hugoportfoliotest/screenshot1.png)
+![Alt text](/screenshot1.png)
 
 I designed a 3d menu for the game that was a rough skeuomorphism of putting the ship parts into a sort of builder. I over-scoped greatly because I couldn't model all of the parts individually, but I was able to create a very tactile and satisfying menu system. I also responded to player confusion about input chording by making it so that in the menu, you have to input an attack in order to modify it on your loadout. This was a nice idea but in the end I think it made the menu controls too confusing. Other UI elements I was proud of the design of was the dash ring- I created a ring that expanded around the player while dash was held, and it would visually convey the dash 'charging up' while also indicating exactly how far you would go if you buffered a turnaround. using VFX for player communication is something I wanted to do more of, but I liked that I at least made this. Also, through the use of my 3d skeuomorphic GUI, I was able to work around the problem where the unity version I was using at the time (4.x) was not capable of natively supporting multiple players using the same GUI EventSystem.
 
@@ -44,12 +44,12 @@ I designed all the playable stages in the game to wrap in both the X and Y so th
 
 I brought Squareforce out to many different promotional events. I ran a booth at GDEX, an Ohio convention where gamedevs from Ohio and surrounding states could show their stuff. I also brought my game trailer out to GDC. I also got some professional smash players to try it at the Cleveland Esports Summit! Most of all, I brought it out to local developer and enthusiast events in Cleveland and Portland, Oregon many times (I was living in both places at the time). Each time I took notes on bugs players encountered, moments when they misunderstood what was happening in the game, common critiques, and negative possibility spaces/feature requests. 
 
-![Alt text](/hugoportfoliotest/IMG_2473.JPG)
+![Alt text](/IMG_2473.JPG)
 
 # ENGINEERING TASKS:
 
 
-![Alt text](/hugoportfoliotest/screenshot4.png)
+![Alt text](/screenshot4.png)
 
 ## Game Systems Programming
 
@@ -67,7 +67,7 @@ I also used mecanim to drive enemy AI behavior in the game. Rather than use it f
 # ART TASKS:
 
 
-![Alt text](/hugoportfoliotest/screenshot3.png)
+![Alt text](/screenshot3.png)
 
 ## 3D Object Art
 
@@ -84,7 +84,7 @@ Since my art was low-poly, I relied a lot on lighting and VFX to visually distin
 
 # OTHER TASKS:
 
-![Alt text](/hugoportfoliotest/splash.png)
+![Alt text](/splash.png)
 
 
 ## Production Scheduling, Publisher Relations and Market Research
