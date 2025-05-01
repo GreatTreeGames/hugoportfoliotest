@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://greattreegames.com"
+baseURL = "greattreegames.com"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
