@@ -1,6 +1,6 @@
 ﻿---
 title: "Sales Academy VR"
-date: 2024-11-28
+date: 2024-10-29
 draft: false
 description: "a description"
 tags: ["example", "tag"]

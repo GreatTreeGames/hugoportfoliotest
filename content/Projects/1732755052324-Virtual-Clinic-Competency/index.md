@@ -1,6 +1,6 @@
 ﻿---
 title: "Virtual Clinic Competency"
-date: 2024-11-28
+date: 2025-05-28
 draft: false
 description: "a description"
 tags: ["Web", "Mobile"]
